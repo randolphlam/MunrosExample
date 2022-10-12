@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Munros API Example with React JS and Selected
 
 This is Munro Selector Example based on Munros API and React.JS
 
