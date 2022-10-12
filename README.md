@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is Munro Selector Example based on Munros API and React.JS
 
 ## Available Scripts
 
